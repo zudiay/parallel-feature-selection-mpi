@@ -1,0 +1,6 @@
+Slave P1 : 0 5
+Slave P2 : 0 2
+Slave P3 : 5 7
+Slave P4 : 5 7
+Slave P5 : 0 3
+Master P0 : 0 2 3 5 7
